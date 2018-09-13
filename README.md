@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bullet
 - List
+- Marksman
+- JavaScript, HTML, CSS
 
 1. Numbered
 2. List
