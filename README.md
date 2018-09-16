@@ -15,10 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bullet
-- List
-- Marksman
 - JavaScript, HTML, CSS
+- React, Angular
+- Node.js, Express
+- Bootstrap,jQuery
 
 1. Numbered
 2. List
