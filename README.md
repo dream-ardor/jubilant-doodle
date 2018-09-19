@@ -27,8 +27,21 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[CodePen](https://codepen.io/DreamArdor/) and ![Image](src)
+[Link](URL) and ![Image](src)
 ```
+```javascript
+Here is some JavaScript
+
+const numbers = [69, 10, 90, 11]
+
+const add = (a,b) => 
+a + b
+
+const sum = numbers.reduce(add)
+
+console.log(sum)
+```
+Here is my [CodePen](https://codepen.io/DreamArdor/). :smile:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
