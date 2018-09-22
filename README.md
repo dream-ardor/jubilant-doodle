@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/dream-ardor/jubilant-doodle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [LinkedIn](https://www.linkedin.com/in/danbarrick/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll] (https://jekyllrb.com/)to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -32,6 +32,8 @@ Syntax highlighted code block
 ```javascript
 Here is some JavaScript
 
+Using the reduce method:
+
 const numbers = [69, 10, 90, 11]
 
 const add = (a,b) => 
@@ -42,6 +44,8 @@ const sum = numbers.reduce(add)
 console.log(sum)
 ```
 Here is my [CodePen](https://codepen.io/DreamArdor/). :smile:
+
+Here is my [LinkedIn](https://www.linkedin.com/in/danbarrick/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
