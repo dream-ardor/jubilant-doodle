@@ -20,6 +20,7 @@ Syntax highlighted code block
 - React, Angular
 - Node.js, Express
 - Bootstrap,jQuery
+- Python, Ruby
 
 1. Numbered
 2. List
