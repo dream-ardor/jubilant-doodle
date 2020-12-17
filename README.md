@@ -37,8 +37,7 @@ Using the reduce method:
 
 const numbers = [69, 10, 90, 11]
 
-const add = (a,b) => 
-a + b
+const add = (a,b) => a + b;
 
 const sum = numbers.reduce(add)
 
